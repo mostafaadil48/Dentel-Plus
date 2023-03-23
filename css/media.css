@@ -1,0 +1,446 @@
+@media(max-width:2560px){
+    .height {
+        min-height: 0;
+        margin: 150px 0;
+    }
+    .banner_img {
+        bottom: -150px;
+    }
+    .welcome {
+        min-height: 0;
+    }
+    .welcome-img {
+        width: 22%;
+        left: 25%;
+    }
+    footer p {
+        color: #fff;
+        font-size: 25px;
+        text-align: center;
+    }
+}
+@media(max-width:1440px){
+    .banner-carousel .owl-nav .owl-next {
+        right: 0%;
+    }
+    .banner-carousel .owl-nav .owl-prev {
+        left: -3%;
+        height: 30px;
+        width: 25px;
+    }
+    .banner-carousel .owl-nav .owl-next {
+        right: -3%;
+        height: 30px;
+        width: 25px;
+    }
+    .welcome-img {
+        width: 40%;
+        left: 90px;
+    }
+}
+@media(max-width:1200px){
+    .banner-carousel .owl-nav .owl-next {
+        right: 0%;
+    }
+    .banner-carousel .owl-nav .owl-prev {
+        left: -3%;
+        height: 30px;
+        width: 25px;
+    }
+    .banner-carousel .owl-nav .owl-next {
+        right: -3%;
+        height: 30px;
+        width: 25px;
+    }
+    .welcome {
+        padding: 50px 0;
+    }
+}
+@media(max-width:991px){
+    .height {
+        min-height: 0;
+
+        margin: 70px 0;
+    }
+    .banner_img {
+        bottom: -70px;
+    }
+    .navbar-brand{
+        display: inherit;
+        width: 200px;
+    }
+    .top-header img {
+       display: none;
+    }
+    .nav-link {
+        display: inline-block;
+    }
+    .navbar-nav{
+        text-align: center;
+    }
+    .header-ul ul li {
+        margin-left: 0px;
+    }
+    .header-ul ul {
+        justify-content: space-between;
+    }
+    .top-header-col {
+        width: 0;
+    }
+    .appointment_btn {
+        width: 50%;
+        margin: auto;
+        text-align: center;
+    }
+    .banner h2 {
+        display: block;
+        font-size: 25px;
+        text-align: center;
+        width: 98%;
+        margin-bottom: 15px !important;
+        margin: auto;
+    }
+    .banner h1 {
+        display: block;
+        font-size: 35px;
+        text-align: center;
+        width: 98%;
+        margin-bottom: 15px !important;
+        margin: auto;
+    }
+    .banner p {
+        font-size: 16px;
+        text-align: center;
+    }
+    .welcome-img {
+        bottom: 0;
+    }
+    .wel-cont h3 {
+        font-size: 15px;
+    }
+    .welcome {
+        padding: 60px 0;
+    }
+    .ser-info p {
+        font-size: 13px;
+    }
+    .plan-name h3 {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+    .clients-carousel .owl-dots {
+        bottom: -45%;
+    }
+    .brand-logo {
+        margin: auto;
+    }
+    .dental-img {
+        width: 55%;
+    }
+    .dental-icon p {
+        font-size: 10px;
+    }
+    .dental-head h3 {
+        font-size: 25px;
+    }
+    .dental-info p {
+        font-size: 10px;
+    }
+    .dental-main {
+        margin-top: 4px;
+    }
+    .newsletter-info p {
+        font-size: 12px;
+    }
+    .newsletter-info {
+        margin-bottom: 35px;
+    }
+    form {
+        display: inherit;
+    }
+    form input {
+        width: 100%;
+    }
+    form input[type="submit"] {
+        font-size: 15px;
+        font-weight: 600;
+        line-height: 14px;
+        width: 50%;
+        margin: auto;
+        justify-content: center;
+        display: flex;
+        margin-top: 10px;
+    }
+    .soical {
+        display: inline-block;
+        text-align: center;
+        margin-top: 40px;
+    }
+    .soical h5 {
+        margin-bottom: 10px;
+    }
+    
+    
+}
+@media(max-width:767px){
+    .top-header{
+        padding: 10px 0;
+    }
+
+    .navbar-brand{
+        display: inherit;
+        width: 150px;
+    }
+    .top-header img {
+       display: none;
+    }
+    .header_cont h5 {
+        display: none;
+    }
+    .header-ul ul {
+        justify-content: space-between;
+    }
+    .header_icon {
+        font-size: 15px;
+    }
+    .header_cont p {
+        font-size: 12px;
+    }
+    .welcome-img {
+        display: none;
+    }
+    .doc-img {
+        display: inline-block;
+    }
+    .doc-pic-info {
+        text-align: center;
+    }
+    .s-logo {
+        justify-content: center;
+    }
+    .s-logo h3 {
+        font-size: 18px;
+    }
+    .ser-info p {
+        text-align: center;
+    }
+    .doctors-info h3 {
+        font-size: 30px;
+    }
+    .services-info h3 {
+        font-size: 30px;
+    }
+    .brand-logo {
+        margin: auto;
+    }
+    .dental-img {
+        text-align: center;
+        margin: auto;
+        margin-bottom: 25px;
+    }
+    .dental-cont p {
+        text-align: center;
+    }
+    .dental-icon {
+        justify-content: center;
+    }
+    .dental-head h3 {
+        font-size: 30px;
+        text-align: center;
+    }
+    .dental-head {
+        margin-top: 30px;
+        margin-bottom: 10px;
+    }
+    .newsletter-info {
+        text-align: center;
+    }
+    .soical {
+        display: block;
+        text-align: center;
+    }
+    .soical-icon {
+        margin-top: 20px;
+    }
+    .soical-icon ul {
+        justify-content: space-evenly;
+    }
+    .soical-icon ul li a {
+        margin-right: 0;
+    }
+    footer p {
+        font-size: 10px;
+    }
+    .btn_learn {
+        font-size: 10px;
+    }
+    .btn_book {
+        font-size: 11px;
+    }
+    .clients-carousel .owl-dots {
+        bottom: -40%;
+    }
+    .welcome {
+        padding: 50px 0;
+    }
+    .banner-carousel .owl-dots {
+        bottom: 5%;
+    }
+    .wel-cont {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .height {
+        min-height: 0;
+        text-align: center;
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+    .banner_img {
+        display: none;
+    }
+    .banner-carousel .owl-nav .owl-next {
+        display: none;
+    }
+    .banner-carousel .owl-nav .owl-prev {
+    display: none;
+    }
+    .wel-info {
+        text-align: center;
+    }
+    .wel-info {
+        margin-bottom: 60px;
+    }
+    .clients-carousel .owl-nav .owl-next {
+        right: -5%;
+    }
+    .clients-carousel .owl-nav .owl-prev {
+        left: -5%;
+    }
+    form input {
+        width: 100%;
+    }
+    
+}
+@media(max-width:575px){
+    .header-ul ul {
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+    }
+    .ser-info p {
+        font-size: 15px;
+    }
+    .plan-cont p {
+        line-height: 35px;
+    }
+    .clients-carousel .owl-nav .owl-prev {
+        left: 20%;
+    }
+    .clients-carousel .owl-nav .owl-next {
+        right: 20%;
+    }
+    .man-img {
+        width: 25%;
+        margin: auto;
+    }
+    .dental-main {
+        display: inherit;
+        margin-bottom: 26px;
+        text-align: center;
+    }
+    .dental-infop p {
+        font-size: 10px;
+    }
+    .dental-info p {
+        font-size: 13px;
+    }
+    .banner h2 {
+        font-size: 30px;
+    }
+    .banner h1 {
+        font-size: 35px;
+        width: 85%;
+    }
+    .appointment_btn {
+        padding: 15px 15px;
+    }
+    form {
+        display: block;
+    }
+    form input {
+        width: 100%;
+    }
+    form input[type="submit"] {
+        padding: 0;
+        background: #F69165;
+        border: none;
+        width: 97px;
+        border: 2px solid #707070;
+        font-weight: 800;
+        margin-top: 15px;
+    }
+}
+@media(max-width:425px){
+    .banner h2 {
+        font-size: 30px;
+    }
+    .banner h1 {
+        font-size: 35px;
+    }
+    .appointment_btn {
+        padding: 15px 15px;
+    }
+    .clients-carousel .owl-nav .owl-prev {
+        left: 12%;
+    }
+    .clients-carousel .owl-nav .owl-next {
+        right: 12%;
+    }
+}
+@media(max-width:375px){
+    .doctors-icon ul li a {
+        font: 20px;
+        padding: 10px;
+    }
+    
+}
+@media(max-width:280px){
+    .top-header {
+        display: none;
+    }
+    .appointment_btn a {
+        font-size: 10px;
+    }
+    .appointment_btn i {
+        font-size: 15px;
+    }
+    .navbar-brand {
+        width: 100px;
+    }
+    .banner h2 {
+        font-size: 20px;
+    }
+    .banner h1 {
+        font-size: 25px;
+    }
+    .nav-link {
+        font-size: 15px;
+    }
+    .doctors-icon ul li a {
+        font: 20px;
+        padding: 10px;
+    }
+}
+@media(max-width:320px){
+    .doctors-icon ul li a {
+        font: 20px;
+        padding: 10px;
+    }
+
+}
+@media(max-width:300px){
+    .doctors-icon ul li a {
+        font: 20px;
+        padding: 10px;
+    }
+}
